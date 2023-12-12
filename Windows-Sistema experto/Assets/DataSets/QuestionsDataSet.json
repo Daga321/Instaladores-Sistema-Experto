@@ -1,0 +1,82 @@
+{
+  "Genero": [
+    "El genero del personaje es Masculino?",
+    "El genero del personaje es Femenino?",
+    "El genero del personaje es Otro?"
+  ],
+  "Especie": [
+    "La especie del personaje es Darkin?",
+    "La especie del personaje es Vastaya?",
+    "La especie del personaje es Humano?",
+    "La especie del personaje es Minotauro?",
+    "La especie del personaje es No muerto?",
+    "La especie del personaje es Yordle?",
+    "La especie del personaje es Dios?",
+    "La especie del personaje es Espiritu?",
+    "La especie del personaje es Nacido con magia?",
+    "La especie del personaje es Magicamente alterado?",
+    "La especie del personaje es Nacido del hielo?",
+    "La especie del personaje es Celestial?",
+    "La especie del personaje es Dragon?",
+    "La especie del personaje es Guerrero?",
+    "La especie del personaje es Vacio?",
+    "La especie del personaje es Golem?",
+    "La especie del personaje es Ciborg?",
+    "La especie del personaje es Quimicamente alterado?",
+    "La especie del personaje es Demonio?",
+    "La especie del personaje es Desconocido?",
+    "La especie del personaje es Espiritualista?",
+    "La especie del personaje es Yeti?",
+    "La especie del personaje es Renacido?",
+    "La especie del personaje es Perro?",
+    "La especie del personaje es Joker?",
+    "La especie del personaje es Bracker?",
+    "La especie del personaje es Mago?",
+    "La especie del personaje es Trol?",
+    "La especie del personaje es Ciborg?",
+    "La especie del personaje es Gato?"
+  ],
+  "Recurso": [
+    "El tipo de recurso que usa el personaje es Sin mana?",
+    "El tipo de recurso que usa el personaje es Mana?",
+    "El tipo de recurso que usa el personaje es Energia?",
+    "El tipo de recurso que usa el personaje es Vida?",
+    "El tipo de recurso que usa el personaje es Furia?",
+    "El tipo de recurso que usa el personaje es Valor?",
+    "El tipo de recurso que usa el personaje es Escudo?",
+    "El tipo de recurso que usa el personaje es Ferocidad?",
+    "El tipo de recurso que usa el personaje es Calor?"
+  ],
+  "Region": [
+
+    "La region donde habita el personaje es Isla de las sombras?"
+  ],
+  "Ataque": [
+    "El tipo de ataque del personaje es Mele?",
+    "El tipo de ataque del personaje es Distancia?"
+  ],
+  "Fecha": [
+    "La fecha en que salio el personaje fue 2009?",
+    "La fecha en que salio el personaje fue 2010?",
+    "La fecha en que salio el personaje fue 2011?",
+    "La fecha en que salio el personaje fue 2012?",
+    "La fecha en que salio el personaje fue 2013?",
+    "La fecha en que salio el personaje fue 2014?",
+    "La fecha en que salio el personaje fue 2015?",
+    "La fecha en que salio el personaje fue 2016?",
+    "La fecha en que salio el personaje fue 2017?",
+    "La fecha en que salio el personaje fue 2018?",
+    "La fecha en que salio el personaje fue 2019?",
+    "La fecha en que salio el personaje fue 2020?",
+    "La fecha en que salio el personaje fue 2021?",
+    "La fecha en que salio el personaje fue 2022?",
+    "La fecha en que salio el personaje fue 2023?"
+  ],
+  "Posicion": [
+    "Ese campeon es popularmente jugado en Top?",
+    "Ese campeon es popularmente jugado en Medio?",
+    "Ese campeon es popularmente jugado en Soporte?",
+    "Ese campeon es popularmente jugado en Jungla?",
+    "Ese campeon es popularmente jugado en Adc?"
+  ]
+}

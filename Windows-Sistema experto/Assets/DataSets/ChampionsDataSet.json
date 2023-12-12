@@ -1,0 +1,3341 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "Aatrox",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Darkin"
+        ],
+        "Recurso": "Sin mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Runaterra",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 2,
+        "Nombre": "Ahri",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Vastaya"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 3,
+        "Nombre": "Akali",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio",
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Energia",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 4,
+        "Nombre": "Akshan",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2021
+    },
+    {
+        "ID": 5,
+        "Nombre": "Alistar",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Minotauro"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 6,
+        "Nombre": "Amumu",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Soporte"
+        ],
+        "Especie": [
+            "No muerto",
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 7,
+        "Nombre": "Anivia",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Dios",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 8,
+        "Nombre": "Annie",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio",
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Noxus",
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 9,
+        "Nombre": "Aphelios",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2019
+    },
+    {
+        "ID": 10,
+        "Nombre": "Ashe",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc",
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido del hielo"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 11,
+        "Nombre": "Aurelion Sol",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Celestial",
+            "Dragon"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Runaterra",
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2016
+    },
+    {
+        "ID": 12,
+        "Nombre": "Azir",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Dios",
+            "Guerrero"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2014
+    },
+    {
+        "ID": 13,
+        "Nombre": "Bardo",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Celestial"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2015
+    },
+    {
+        "ID": 14,
+        "Nombre": "Bel'Veth",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Vacio"
+        ],
+        "Recurso": "Sin mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Vacio"
+        ],
+        "Fecha lanzamiento": 2022
+    },
+    {
+        "ID": 15,
+        "Nombre": "Blitzcrank",
+        "Genero": "Otro",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Golem"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 16,
+        "Nombre": "Brand",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 17,
+        "Nombre": "Braum",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido del hielo"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2014
+    },
+    {
+        "ID": 18,
+        "Nombre": "Briar",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Golem"
+        ],
+        "Recurso": "Vida",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2023
+    },
+    {
+        "ID": 19,
+        "Nombre": "Caitlyn",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Piltover"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 20,
+        "Nombre": "Camille",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Ciborg",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Piltover"
+        ],
+        "Fecha lanzamiento": 2016
+    },
+    {
+        "ID": 21,
+        "Nombre": "Cassiopeia",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 22,
+        "Nombre": "Cho'gath",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Vacio"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Vacio"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 23,
+        "Nombre": "Corki",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Ciudad de Bandle",
+            "Piltover"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 24,
+        "Nombre": "Darius",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 25,
+        "Nombre": "Diana",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla",
+            "Medio"
+        ],
+        "Especie": [
+            "Aspecto",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 26,
+        "Nombre": "Dr Mundo",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Quimicamente alterado",
+            "Humano"
+        ],
+        "Recurso": "Vida",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 27,
+        "Nombre": "Draven",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 28,
+        "Nombre": "Ekko",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Medio"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2015
+    },
+    {
+        "ID": 29,
+        "Nombre": "Elise",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele",
+            "Distancia"
+        ],
+        "Region": [
+            "Noxus",
+            "Isla de las sombras"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 30,
+        "Nombre": "Evelyn",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Demonio",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 31,
+        "Nombre": "Ezreal",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Piltover"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 32,
+        "Nombre": "Fiddlesticks",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Demonio",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 33,
+        "Nombre": "Fiora",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 34,
+        "Nombre": "Fizz",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Aguas estancadas"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 35,
+        "Nombre": "Galio",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Soporte"
+        ],
+        "Especie": [
+            "Golem"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 36,
+        "Nombre": "Gangplank",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Aguas estancadas"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 37,
+        "Nombre": "Garen",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Sin mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 38,
+        "Nombre": "Gnar",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Furia",
+        "Tipo": [
+            "Mele",
+            "Distancia"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2014
+    },
+    {
+        "ID": 39,
+        "Nombre": "Gragas",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 40,
+        "Nombre": "Graves",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Aguas estancadas"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 41,
+        "Nombre": "Gwen",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Camavor",
+            "Islas de las sombras"
+        ],
+        "Fecha lanzamiento": 2021
+    },
+    {
+        "ID": 42,
+        "Nombre": "Hecarim",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "No muerto"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Camavor",
+            "Islas de las sombras"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 43,
+        "Nombre": "Heimerdinger",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Soporte"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Piltover"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 44,
+        "Nombre": "Hwei",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2023
+    },
+    {
+        "ID": 45,
+        "Nombre": "Illaoi",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Aguas estancadas"
+        ],
+        "Fecha lanzamiento": 2015
+    },
+    {
+        "ID": 46,
+        "Nombre": "Irelia",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio",
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 47,
+        "Nombre": "Ivern",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Freljord",
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2016
+    },
+    {
+        "ID": 48,
+        "Nombre": "Janna",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Dios",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Shurima",
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 49,
+        "Nombre": "Jarvan IV",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 50,
+        "Nombre": "Jax",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Desconocido"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Icathia",
+            "Runaterra",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 51,
+        "Nombre": "Jayce",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele",
+            "Distancia"
+        ],
+        "Region": [
+            "Piltover"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 52,
+        "Nombre": "Jhin",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2016
+    },
+    {
+        "ID": 53,
+        "Nombre": "Jinx",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Quimicamente alterado",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 54,
+        "Nombre": "K'Sante",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2022
+    },
+    {
+        "ID": 55,
+        "Nombre": "Kai'Sa",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano",
+            "Vacio"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Shurima",
+            "Vacio"
+        ],
+        "Fecha lanzamiento": 2018
+    },
+    {
+        "ID": 56,
+        "Nombre": "Kalista",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "No muerto"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Camavor",
+            "Islas de las sombras"
+        ],
+        "Fecha lanzamiento": 2014
+    },
+    {
+        "ID": 57,
+        "Nombre": "karma",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 58,
+        "Nombre": "Karthus",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "No muerto"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Noxus",
+            "Islas de la Sombra"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 59,
+        "Nombre": "Kassadin",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Vacio"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Shurima",
+            "vacio"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 60,
+        "Nombre": "Katarina",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 61,
+        "Nombre": "Kayle",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Aspecto",
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele",
+            "Distancia"
+        ],
+        "Region": [
+            "Demacia",
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 62,
+        "Nombre": "Kayn",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Darkin",
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia",
+            "Noxus",
+            "Runaterra",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2017
+    },
+    {
+        "ID": 63,
+        "Nombre": "Kennen",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Energia",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 64,
+        "Nombre": "Kha'Zix",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Vacio"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Vacio"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 65,
+        "Nombre": "Kindred",
+        "Genero": "Otro",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Dios",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2015
+    },
+    {
+        "ID": 66,
+        "Nombre": "Kled",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Valor",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2016
+    },
+    {
+        "ID": 67,
+        "Nombre": "Kog Maw",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Vacio"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Vacio"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 68,
+        "Nombre": "LeBlanc",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 69,
+        "Nombre": "Lee Sin",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Energia",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 70,
+        "Nombre": "Leona",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Aspecto",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 71,
+        "Nombre": "Lillia",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2020
+    },
+    {
+        "ID": 72,
+        "Nombre": "Lissandra",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido del hielo"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 73,
+        "Nombre": "Lucian",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Demacia",
+            "Isla de las sombras"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 74,
+        "Nombre": "Lulu",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ciudad de Bandle"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 75,
+        "Nombre": "Lux",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio",
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 76,
+        "Nombre": "Maestro Yi",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 77,
+        "Nombre": "Malphite",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Golem"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Ixtal",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 78,
+        "Nombre": "Malzahar",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Vacio"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Shurima",
+            "vacio"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 79,
+        "Nombre": "Maokai",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Soporte"
+        ],
+        "Especie": [
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Isla de las sombras"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 80,
+        "Nombre": "Milio",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ixtal",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2023
+    },
+    {
+        "ID": 81,
+        "Nombre": "Miss Fortune",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Aguas estancadas"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 82,
+        "Nombre": "Mordekaiser",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Renacido"
+        ],
+        "Recurso": "Escudo",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 83,
+        "Nombre": "Morgana",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Aspecto",
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Demacia",
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 84,
+        "Nombre": "Naafiri",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Darkin",
+            "Perro"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2023
+    },
+    {
+        "ID": 85,
+        "Nombre": "Nami",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Vastaya"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 86,
+        "Nombre": "Nasus",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Dios",
+            "Guerrero"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 87,
+        "Nombre": "Nautilus",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Renacido"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Aguas estancadas"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 88,
+        "Nombre": "Neeko",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio",
+            "Soporte"
+        ],
+        "Especie": [
+            "Vastaya"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ixtal"
+        ],
+        "Fecha lanzamiento": 2018
+    },
+    {
+        "ID": 89,
+        "Nombre": "Nidalee",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele",
+            "Distancia"
+        ],
+        "Region": [
+            "Ixtal"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 90,
+        "Nombre": "Nilah",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Aguas estancadas"
+        ],
+        "Fecha lanzamiento": 2022
+    },
+    {
+        "ID": 91,
+        "Nombre": "Nocturne",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Demonio",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 92,
+        "Nombre": "Nunu",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano",
+            "Yeti"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 93,
+        "Nombre": "Olaf",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido del hielo"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 94,
+        "Nombre": "Orianna",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Golem"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Piltover"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 95,
+        "Nombre": "Ornn",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Dios",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2017
+    },
+    {
+        "ID": 96,
+        "Nombre": "Pantheon",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Soporte",
+            "Top"
+        ],
+        "Especie": [
+            "Aspecto",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 97,
+        "Nombre": "Poppy",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 98,
+        "Nombre": "Pyke",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Renacido"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Aguas estancadas"
+        ],
+        "Fecha lanzamiento": 2018
+    },
+    {
+        "ID": 99,
+        "Nombre": "Qiyana",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Ixtal"
+        ],
+        "Fecha lanzamiento": 2019
+    },
+    {
+        "ID": 100,
+        "Nombre": "Quinn",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 101,
+        "Nombre": "Rakan",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Vastaya"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2017
+    },
+    {
+        "ID": 102,
+        "Nombre": "Rammus",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Dios",
+            "Guerrero"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 103,
+        "Nombre": "Rek'Sai",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Vacio"
+        ],
+        "Recurso": "Furia",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Shurima",
+            "Vacio"
+        ],
+        "Fecha lanzamiento": 2014
+    },
+    {
+        "ID": 104,
+        "Nombre": "Rell",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2020
+    },
+    {
+        "ID": 105,
+        "Nombre": "Renata",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Quimicamente alterado",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2022
+    },
+    {
+        "ID": 106,
+        "Nombre": "Renekton",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Dios",
+            "Guerrero"
+        ],
+        "Recurso": "Furia",
+        "Tipo": [
+            "mele"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 107,
+        "Nombre": "Rengar",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Vastaya"
+        ],
+        "Recurso": "Ferocidad",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Ixtal",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 108,
+        "Nombre": "Riven",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Sin mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia",
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 109,
+        "Nombre": "Rumble",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Top"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Calor",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Ciudad de Bandle"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 110,
+        "Nombre": "Ryze",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 111,
+        "Nombre": "Samira",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Noxus",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2020
+    },
+    {
+        "ID": 112,
+        "Nombre": "Sejuani",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido del hielo"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 113,
+        "Nombre": "Senna",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "No muerto"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Isla de las sombras"
+        ],
+        "Fecha lanzamiento": 2019
+    },
+    {
+        "ID": 114,
+        "Nombre": "Seraphine",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Piltover",
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2020
+    },
+    {
+        "ID": 115,
+        "Nombre": "Sett",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Vastaya"
+        ],
+        "Recurso": "Escudo",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2020
+    },
+    {
+        "ID": 116,
+        "Nombre": "Shaco",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Joker"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Bosque Retorcido"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 117,
+        "Nombre": "Shen",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Energia",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 118,
+        "Nombre": "Shyvana",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Dragon",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Furia",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 119,
+        "Nombre": "Singed",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Quimicamente alterado",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Piltover",
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 120,
+        "Nombre": "Sion",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Renacido"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 121,
+        "Nombre": "Sivir",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 122,
+        "Nombre": "Skarner",
+        "Genero": "Masculino",
+        "Posicion": [
+            "jungla"
+        ],
+        "Especie": [
+            "Bracker"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 123,
+        "Nombre": "Sona",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Demacia",
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 124,
+        "Nombre": "Soraka",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Celestial"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "DIstancia"
+        ],
+        "Region": [
+            "Jonia",
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 125,
+        "Nombre": "Swain",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente Alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "DIstancia"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 126,
+        "Nombre": "Sylas",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia",
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2019
+    },
+    {
+        "ID": 127,
+        "Nombre": "Syndra",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 128,
+        "Nombre": "Tahm Kench",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte",
+            "Top"
+        ],
+        "Especie": [
+            "Demonio",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Aguas estancadas",
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2015
+    },
+    {
+        "ID": 129,
+        "Nombre": "Taliyah",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla",
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2016
+    },
+    {
+        "ID": 130,
+        "Nombre": "Talon",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Medio"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 131,
+        "Nombre": "Taric",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Aspecto",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia",
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 132,
+        "Nombre": "Teemo",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ciudad de Bandle"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 133,
+        "Nombre": "Thresh",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "No muerto"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Isla de las sombras"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 134,
+        "Nombre": "Tristana",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ciudad de Bandle"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 135,
+        "Nombre": "Tryndamere",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Furia",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 136,
+        "Nombre": "Trundle",
+        "Genero": "Masculino",
+        "Posicion": [
+            "jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Nacido del hielo",
+            "Trol"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 137,
+        "Nombre": "Twisted Fate",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Aguas Estancadas"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 138,
+        "Nombre": "Twitch",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Quimicamente alterado",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 139,
+        "Nombre": "Udyr",
+        "Genero": "Masculino",
+        "Posicion": [
+            "jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Espiritualista"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord",
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 140,
+        "Nombre": "Urgot",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Quimicamente alterado",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Noxius"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 141,
+        "Nombre": "Varus",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc",
+            "Medio"
+        ],
+        "Especie": [
+            "Darkin",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Jonia",
+            "Runaterra",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 142,
+        "Nombre": "Vayne",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc",
+            "Top"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Demacia"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 143,
+        "Nombre": "Veigar",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ciudad de Bandle",
+            "Runaterra"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 144,
+        "Nombre": "Vel'Koz",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Soporte"
+        ],
+        "Especie": [
+            "Vacio"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Vacio"
+        ],
+        "Fecha lanzamiento": 2014
+    },
+    {
+        "ID": 145,
+        "Nombre": "Vex",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ciudad de Bandle",
+            "Islas de la Sombra"
+        ],
+        "Fecha lanzamiento": 2021
+    },
+    {
+        "ID": 146,
+        "Nombre": "Vi",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Piltover",
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 147,
+        "Nombre": "Viego",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "No muerto"
+        ],
+        "Recurso": "Sin mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Camavor",
+            "Islas de la Sombra"
+        ],
+        "Fecha lanzamiento": 2021
+    },
+    {
+        "ID": 148,
+        "Nombre": "Viktor",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Ciborg",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Piltover",
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 149,
+        "Nombre": "Vladimir",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Vida",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Camavor",
+            "Noxus",
+            "Islas de la Sombra"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 150,
+        "Nombre": "Volibear",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Dios",
+            "Espiritu"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Freljord"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 151,
+        "Nombre": "Warwick",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Quimicamente Alterado",
+            "Ciborg",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 152,
+        "Nombre": "Wukong",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla",
+            "Top"
+        ],
+        "Especie": [
+            "Vastaya"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 153,
+        "Nombre": "Xayah",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Vastaya"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2017
+    },
+    {
+        "ID": 154,
+        "Nombre": "Xerath",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Soporte"
+        ],
+        "Especie": [
+            "Dios"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 155,
+        "Nombre": "Xin Zhao",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Demacia",
+            "Jonia",
+            "Noxus"
+        ],
+        "Fecha lanzamiento": 2010
+    },
+    {
+        "ID": 156,
+        "Nombre": "Yasuo",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Escudo",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 157,
+        "Nombre": "Yone",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio",
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Sin mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2020
+    },
+    {
+        "ID": 158,
+        "Nombre": "Yorick",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Top"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Islas de la Sombra"
+        ],
+        "Fecha lanzamiento": 2011
+    },
+    {
+        "ID": 159,
+        "Nombre": "Yuumi",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Gato",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ciudad de Bandle"
+        ],
+        "Fecha lanzamiento": 2019
+    },
+    {
+        "ID": 160,
+        "Nombre": "Zac",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Jungla"
+        ],
+        "Especie": [
+            "Golem"
+        ],
+        "Recurso": "Vida",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2013
+    },
+    {
+        "ID": 161,
+        "Nombre": "Zed",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Humano",
+            "Magicamente alterado"
+        ],
+        "Recurso": "Energia",
+        "Tipo": [
+            "Mele"
+        ],
+        "Region": [
+            "Jonia"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 162,
+        "Nombre": "Zeri",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Adc"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2022
+    },
+    {
+        "ID": 163,
+        "Nombre": "Ziggs",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Adc",
+            "Medio"
+        ],
+        "Especie": [
+            "Yordle"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Zaun"
+        ],
+        "Fecha lanzamiento": 2012
+    },
+    {
+        "ID": 164,
+        "Nombre": "Zilean",
+        "Genero": "Masculino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Humano",
+            "Nacido con magia"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Icathia",
+            "Runaterra",
+            "Shurima"
+        ],
+        "Fecha lanzamiento": 2009
+    },
+    {
+        "ID": 165,
+        "Nombre": "Zoe",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Medio"
+        ],
+        "Especie": [
+            "Aspecto",
+            "Humano"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Targon"
+        ],
+        "Fecha lanzamiento": 2017
+    },
+    {
+        "ID": 166,
+        "Nombre": "Zyra",
+        "Genero": "Femenino",
+        "Posicion": [
+            "Soporte"
+        ],
+        "Especie": [
+            "Desconocido"
+        ],
+        "Recurso": "Mana",
+        "Tipo": [
+            "Distancia"
+        ],
+        "Region": [
+            "Ixtal"
+        ],
+        "Fecha lanzamiento": 2012
+    }
+]
