@@ -13,8 +13,8 @@ Windows 10 o superior.
 
 ## Instalación
 
-Extraer el archivo .rar y dar doble clic al ejecutable, en caso de ser detectado por el antivirus, debera desactivarlo momentariamente mioentras se extrae el archivo o 
-desde el antivirus crear una excepcion para la carpeta donde se encuentra.
+Extraer el archivo .rar y dar doble clic al ejecutable para iniciar la instalación, en caso de ser detectado por el antivirus, debera desactivarlo momentariamente mioentras se extrae el archivo o 
+desde el antivirus crear una excepcion para la carpeta donde se encuentra tanto el instalador como el ejecutables.
 
 ## Uso
 
