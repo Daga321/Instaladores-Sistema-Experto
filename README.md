@@ -1,4 +1,4 @@
-# Aplicativo para la identificación identificación de personajes en el videojuego League of Legends
+# Aplicativo para la identificación de personajes en el videojuego League of Legends
 
 Este aplicativo implementa un sistema experto basado en el algoritmo RETE para emular el juego "Akinator". 
 Los usuarios podrán responder preguntas relacionadas con diversos aspectos de los personajes de League of Legends, 
